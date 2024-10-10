@@ -1,0 +1,5 @@
+This file contains the necessary Python packages required for the project.
+
+nltk==3.7
+scikit-learn==1.1.2
+pandas==1.4.3
