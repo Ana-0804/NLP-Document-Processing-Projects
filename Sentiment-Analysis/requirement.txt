@@ -1,5 +1,7 @@
 This file contains the necessary Python packages required for the project.
 
-nltk==3.7
-scikit-learn==1.1.2
-pandas==1.4.3
+NLTK: Used for natural language preprocessing tasks like tokenization, stop-word removal, and text normalization.
+scikit-learn: Used for machine learning model implementation, evaluation, and hyperparameter tuning.
+Pandas: For data handling and manipulation.
+NumPy: For numerical operations.
+Matplotlib and Seaborn: For data visualization.
